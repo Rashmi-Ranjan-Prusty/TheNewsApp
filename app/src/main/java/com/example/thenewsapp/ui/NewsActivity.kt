@@ -1,10 +1,11 @@
-package com.example.thenewsapp
+package com.example.thenewsapp.ui
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.example.thenewsapp.R
 
 class NewsActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
