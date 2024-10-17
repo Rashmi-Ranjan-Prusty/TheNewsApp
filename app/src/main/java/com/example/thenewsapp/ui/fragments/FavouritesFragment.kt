@@ -19,5 +19,5 @@ class FavouritesFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_favourites, container, false)
     }
 
-    
+
 }
