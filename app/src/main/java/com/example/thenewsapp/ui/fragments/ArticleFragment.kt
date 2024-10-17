@@ -19,5 +19,5 @@ class ArticleFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_article, container, false)
     }
 
-    
+
 }
