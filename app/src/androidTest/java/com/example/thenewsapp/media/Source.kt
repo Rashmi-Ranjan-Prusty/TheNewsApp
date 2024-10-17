@@ -1,4 +1,4 @@
-package com.example.thenewsapp
+package com.example.thenewsapp.media
 
 data class Source(
     val id: String,
